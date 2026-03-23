@@ -14,3 +14,7 @@ Statistical Analysis (ANOVA); MiniProject
 
 Assembly; MiniProject  
 >รายงานprojectภาษา assembly.pdf
+
+Python-Arduino|Smart-Fan-Control-System; MiniProject
+>project_micro_0369_1022.pdf
+>Smart-Fan-Control-System.py
